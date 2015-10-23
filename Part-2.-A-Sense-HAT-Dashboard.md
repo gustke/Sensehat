@@ -13,7 +13,9 @@ MINUTES_BETWEEN_SENSEHAT_READS = 0.1
 # ---------------------------------
 ```
 
-Specifically, you need to set your ACCESS_KEY to your Initial State account access key. At a command prompt on your Pi, run the script:
+Specifically, you need to set your ACCESS_KEY to your Initial State account access key. Notice how easy it is to read data from the Sense HAT in a single line of Python (e.g. sense.get_temperature()).  
+
+At a command prompt on your Pi, run the script:
 
 ```
 $ sudo python sensehat.py
