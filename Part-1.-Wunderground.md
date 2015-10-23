@@ -4,6 +4,6 @@ The Weather Underground (http://www.wunderground.com) provides real-time online 
 
 Temperature, dew point, wind gust, humidity, precipitation, pressure, UV index, ... all easily available for wherever we want, whenever we want. Let's learn how to use Wunderground's super-simple API.
 
-```Weather Underground is a registered trademark of The Weather Channel, LLC. both in the United States and internationally. The Weather Underground Logo is a trademark of Weather Underground, LLC.```
-
 [<< Part 1: Introduction](Home) - [Part 1: How to Use the Wunderground API >>](Part-1.-How-to-Use-the-Wunderground-API)
+
+```Weather Underground is a registered trademark of The Weather Channel, LLC. both in the United States and internationally. The Weather Underground Logo is a trademark of Weather Underground, LLC.```
