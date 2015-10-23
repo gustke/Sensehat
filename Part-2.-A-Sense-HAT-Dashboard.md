@@ -1,0 +1,1 @@
+[<< Part 2: How to Use the Sense HAT](Part-2.-How-to-Use-the-Sense-HAT) - [Part 3: Hyper-Local Weather Dashboard >>](Part-3.-Hyper-Local-Weather-Dashboard)
