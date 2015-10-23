@@ -21,4 +21,4 @@ In this step-by-step tutorial, you will:
 - build your own personal hyper-local weather dashboard that you can access from any web browser on your laptop or mobile device
 - become a weather badass
 
-[Part 1: Wunderground >>](Part 1. Wunderground)
+[Part 1: Wunderground >>](Part-1.-Wunderground)
