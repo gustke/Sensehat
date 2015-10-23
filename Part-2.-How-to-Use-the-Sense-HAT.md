@@ -2,6 +2,8 @@ The first step in using the Sense HAT is to physically install it onto your Pi. 
 
 ![Sense HAT + Dashboard](https://github.com/InitialState/wunderground-sensehat/wiki/img/sensehat_install.png)
 
+*Image source: raspberrypi.org*
+
 Power on your Pi. We need to install the Python library to make it easy to read the sensor values from the Sense HAT. First, you will need to ensure that everything is up-to-date on your version of Raspbian:
 
 ```
