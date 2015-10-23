@@ -33,6 +33,6 @@ $ nohup python wunderground.py &
 
 This script is going to do a bit more than just read the weather data and send it to Initial State. This script is going to take advantage of the emoji support built into Initial State's tools to make the dashboard a bit more sexy. You can see the logic used to take the weather status from the current_observation -> icon status and convert it to an emoji token in the weather_icon function. Something similar happens for the moon phase in the moon_icon function and wind direction in the wind_dir_icon function.
 
-Go to your Initial State account and look at your data. The screenshot of the dashboard above was taken after 9 days of data collection running at 15 minute intervals. 
+Go to your Initial State account and look at your data. The screenshot of the dashboard above was taken after 9 days of data collection running at 15 minute intervals. The next step in this project is to start collecting weather data from our own sensors.
 
 [<< Part 1: Initial State](Part-1.-Initial-State) - [Part 2: Sense HAT >>](Part-2.-Sense-HAT)
