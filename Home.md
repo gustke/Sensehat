@@ -11,7 +11,7 @@ We are going to build our very own hyper-local weather dashboard, capturing the 
 
 ```
 Project level: Beginner
-Approximate time to complete: 15 minutes
+Approximate time to complete: 20 minutes
 Approximate fun factor: Off the charts
 ```
 
