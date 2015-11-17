@@ -1,4 +1,4 @@
-This NodeJS server is designed to accept data and then ship it to Initial State. This lets us stream all of our previously insecure device data to a cloud service and have that service turn our data into a nice dashboard that we can access from our laptop or mobile device.
+We want to stream all of our weather data to a cloud service and have that service turn our data into a nice dashboard that we can access from our laptop or mobile device. Our data needs a destination. We will use Initial State as that destination.
 
 ###Step 1: Register for Initial State Account
 Go to [https://www.initialstate.com/app#/register/](https://www.initialstate.com/app#/register/) and create a new account.
