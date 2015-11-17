@@ -1,4 +1,4 @@
-We want to stream all of our weather data to a cloud service and have that service turn our data into a nice dashboard that we can access from our laptop or mobile device. Our data needs a destination. We will use Initial State as that destination. 
+This NodeJS server is designed to accept data and then ship it to Initial State. This lets us stream all of our previously insecure device data to a cloud service and have that service turn our data into a nice dashboard that we can access from our laptop or mobile device.
 
 ###Step 1: Register for Initial State Account
 Go to [https://www.initialstate.com/app#/register/](https://www.initialstate.com/app#/register/) and create a new account.
@@ -13,7 +13,7 @@ $ cd /home/pi/
 $ \curl -sSL https://get.initialstate.com/python -o - | sudo bash
 ```
 
-> **Security Note**: The above command has some important anatomy that the user should be aware of. 1) There is a preceding `\` before `curl`. This is important to ensure no alias of `curl` gets run if one was created. This helps mitigate risk of the command doing more than intended. 2) The command is a piped command, so when running, you are piping the output of a script that is being retrieved from `https://get.initialstate.com/python` into the command `sudo bash`. This is done to simplify installation, however, it should be noted that `https` is important here for helping ensure no man-in-the-middle manipulation of the install script, especially since the script is being run with elevated privileges. This is a common way to simplify install and setup, but if you are a little more weary there are some slightly less convenient alternatives: you can break the command out into two steps and investigate the bash script being downloaded from the curl command yourself to insure it's fidelity OR you can [follow the pip instructions](https://github.com/InitialState/python_appender#using-package-management), you just wont get an automatically generated example script.
+> **Security Note**: The above command has some important anatomy that the user should be aware of. 1) There is a preceding `\` before `curl`. This is important to ensure no alias of `curl` gets run if one was created. This helps mitigate risk of the command doing more than intended. 2) The command is a piped command, so when running, you are piping the output of a script that is being retrieved from `https://get.initialstate.com/python` into the command `sudo bash`. This is done to simplify installation, however, it should be noted that `https` is important here for helping ensure no man-in-the-middle manipulation of the install script, especially since the script is being run with elevated privileges. This is a common way to simplify install and setup, but if you are a little more wary there are some slightly less convenient alternatives: you can break the command out into two steps and investigate the bash script being downloaded from the curl command yourself to insure it's fidelity OR you can [follow the pip instructions](https://github.com/InitialState/python_appender#using-package-management), you just wont get an automatically generated example script.
 
 ###Step 3: Make some Automagic
 
@@ -79,6 +79,6 @@ You will want to step through the Waves tutorial to familiarize yourself with ho
 
 ![Example Stream Screenshot](https://github.com/InitialState/beerfridge/wiki/img/example-stream-tiles.png)
 
-You are now ready to start streaming real data from Wunderground and more.
+You are now ready to initialize and run the NodeJS server!
 
-[<< Part 1: How to Use the Wunderground API](Part-1.-How-to-Use-the-Wunderground-API) - [Part 1: A Wunderground Dashboard >>](Part-1.-A-Wunderground-Dashboard)
+[<< Part 1: Install the NodeJS Server](Part-1.-Install-the-NodeJS-Server) - [Part 1: Initialize & Run the Server >>](Part-1.-Initialize-&-Run-the-Server)
