@@ -79,6 +79,6 @@ You will want to step through the Waves tutorial to familiarize yourself with ho
 
 ![Example Stream Screenshot](https://github.com/InitialState/beerfridge/wiki/img/example-stream-tiles.png)
 
-You are now ready to initialize and run the NodeJS server!
+You are now ready to start streaming real data from Wunderground and more.
 
-[<< Part 1: Install the NodeJS Server](Part-1.-Install-the-NodeJS-Server) - [Part 1: Initialize & Run the Server >>](Part-1.-Initialize-&-Run-the-Server)
+[<< Part 1: How to Use the Wunderground API](Part-1.-How-to-Use-the-Wunderground-API) - [Part 1: A Wunderground Dashboard >>](Part-1.-A-Wunderground-Dashboard)
