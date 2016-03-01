@@ -1,7 +1,6 @@
 ## Wunderground + Pi Sense HAT
 
 - [Introduction](Home)
-- [Getting Started]
 - [**Part 1**: Wunderground](Part-1.-Wunderground)
     - [How to Use the Wunderground API](Part-1.-How-to-Use-the-Wunderground-API)
     - [Initial State](Part-1.-Initial-State)
