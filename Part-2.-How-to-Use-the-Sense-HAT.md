@@ -1,3 +1,5 @@
+[![IMAGE ALT TEXT HERE](https://github.com/InitialState/wunderground-sensehat/wiki/img/Create a Sense HAT Dashboard.png)](https://youtu.be/hcLBPRZu11E)
+
 The first step in using the Sense HAT is to physically install it onto your Pi. With the Pi powered down, attached the HAT as shown below.
 
 ![Sense HAT + Dashboard](https://github.com/InitialState/wunderground-sensehat/wiki/img/sensehat_install.png)
