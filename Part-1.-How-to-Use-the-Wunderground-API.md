@@ -1,3 +1,5 @@
+[![IMAGE ALT TEXT HERE](https://github.com/InitialState/wunderground-sensehat/wiki/img/Using the wunderground api.png)](https://youtu.be/a9OLcLu_uW8)
+
 In order to use the Wunderground API, you first need your own API key. Getting an API key is quick and free. 
 
 * Go to http://www.wunderground.com/weather/api/?MR=1.
