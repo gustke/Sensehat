@@ -7,7 +7,7 @@ https://github.com/InitialState/wunderground-sensehat/blob/master/wunderground.p
 
 You can either copy this script to your Pi, or access it through the Github repository that we cloned earlier. You can do this by changing into your wunderground-sensehat directory by typing:
 
-   $ cd wunderground-sensehat
+    $ cd wunderground-sensehat
 
 From here, you'll be able to access the python file that we'll run to create our weather dashboard.
 
