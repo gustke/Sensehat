@@ -9,7 +9,7 @@ To retrieve all of the things we’ve prepared for you, you’ll need to clone t
 To clone the repository all we need to do is go into our Pi’s terminal, or your computers terminal that’s SSH’d into your pi and type this command:
 
 
-    git clone: https://github.com/InitialState/wunderground-sensehat.git
+    $ git clone: https://github.com/InitialState/wunderground-sensehat.git
 
 
 Hit enter and you’ll see this information:
@@ -29,7 +29,7 @@ Before we move onto the next step, let’s take some time to explore around this
 
 Type in the command below into your terminal:
 
-     ls
+     $ ls
 
 This command lists everything that’s available in the directory that you’re currently in. This list shows that our Github Repo has been successfully cloned into our directory under the name “wunderground-sensehat.”
 
@@ -37,7 +37,7 @@ Let’s take a look at what’s in that directory.
 
 To change directory’s, all you need to do is type “cd” and then type the name of the directory that you wish to go to. In this case, we’ll type
 
-     cd wunderground-sensehat
+     $ cd wunderground-sensehat
 
 Once we hit enter, you’ll see that we’re now in the wunderground-sensehat directory.
 
@@ -49,7 +49,7 @@ Here we see the we’ve got our readme document, and a couple different python f
 
 Go ahead and type
 
-     nano sensehat.py
+     $ nano sensehat.py
  
 
 Here you can see all of the code we’ve prepared for you for this project. We’re not going to make any changes to this document just yet, but feel free to scroll around and see what we’re going to be doing later in this tutorial.
