@@ -5,7 +5,18 @@ https://github.com/InitialState/wunderground-sensehat/blob/master/wunderground.p
 
 ![Wunderground Dashboard](https://github.com/InitialState/wunderground-sensehat/wiki/img/wunderground_dashboard.png)
 
-Copy this script to your Pi. Before you run it, you need to set your desired parameters and insert your keys. Edit the section near the top of the script:
+You can either copy this script to your Pi, or access it through the Github repository that we cloned earlier. You can do this by changing into your wunderground-sensehat directory by typing:
+
+   $ cd wunderground-sensehat
+
+From here, you'll be able to access the python file that we'll run to create our weather dashboard.
+
+Before you run it, you need to set your desired parameters and insert your keys. Nano into the wunderground.py file by typing:
+
+    $ nano wunderground.py
+
+
+Then edit the section near the top of the script:
 
 ```
 # --------- User Settings ---------
