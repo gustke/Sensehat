@@ -9,11 +9,14 @@ Let's face it, we humans talk about the weather a lot ⛅️. The average person
 
 We are going to build our very own hyper-local weather dashboard, capturing the weather inside and outside our house over time. The next time someone asks you "how about the weather lately?", you will be able to whip out your phone and leave them breathless with your mad weather analysis skillz ☀️. 
 
+**What you will need to take the course: **
+1. [Raspberry Pi™ 3 Model B Weather Monitor Kit](http://www.mcmelectronics.com/product/83-16564RK)
+2. That's it!
+
 ```
 Project level: Beginner
 Approximate time to complete: 20 minutes
 Approximate fun factor: Off the charts
-Needed to take the course: [Raspberry Pi™ 3 Model B Weather Monitor Kit](http://www.mcmelectronics.com/product/83-16564RK)
 ```
 
 In this step-by-step tutorial, you will:
