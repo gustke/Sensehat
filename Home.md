@@ -20,7 +20,7 @@ Approximate time to complete: 20 minutes
 Approximate fun factor: Off the charts
 ```
 
-In this step-by-step tutorial, you will:
+**In this step-by-step tutorial, you will:**
 - learn how to use Wunderground's API to get the local outside weather in your area
 - learn how to use a Raspberry Pi (http://www.raspberrypi.org) with a Sense HAT (https://www.raspberrypi.org/products/sense-hat/) to capture weather data inside your house
 - build your own personal hyper-local weather dashboard that you can access from any web browser on your laptop or mobile device
