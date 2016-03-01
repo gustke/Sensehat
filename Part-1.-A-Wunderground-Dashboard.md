@@ -1,9 +1,9 @@
 [![IMAGE ALT TEXT HERE](https://github.com/InitialState/wunderground-sensehat/wiki/img/WundergroundDashboard.png)](https://youtu.be/kHzaC1SE7Ro)
 
-![Wunderground Dashboard](https://github.com/InitialState/wunderground-sensehat/wiki/img/wunderground_dashboard.png)
-
 Now for the fun part. We are ready to start using the Wunderground API to create a weather dashboard and capture the weather history for wherever we choose.  To do this, we are going to use the Python script:
 https://github.com/InitialState/wunderground-sensehat/blob/master/wunderground.py. This script simply calls the Wunderground API using your API key and retrieves the weather information on a specified time interval. It also streams that data to your Initial State account, which will allow you to create a Wunderground dashboard.
+
+![Wunderground Dashboard](https://github.com/InitialState/wunderground-sensehat/wiki/img/wunderground_dashboard.png)
 
 Copy this script to your Pi. Before you run it, you need to set your desired parameters and insert your keys. Edit the section near the top of the script:
 
