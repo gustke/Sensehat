@@ -1,5 +1,7 @@
 # GitHub and Command Line Basics
 
+[![IMAGE ALT TEXT HERE](https://github.com/InitialState/wunderground-sensehat/wiki/img/github commandline python basics.png)](https://youtu.be/w3muztSAJLU)
+
 We’ve already put in a lot of the leg work for you putting the code together, and organizing the information. We’ll just need you to make a few adjustments along the way. 
 
 To retrieve all of the things we’ve prepared for you, you’ll need to clone the repository from GitHub. Github is an awesome service that allows us to store, revise and manage projects like this.
