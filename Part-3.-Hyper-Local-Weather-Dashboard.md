@@ -3,7 +3,9 @@
 
 ![Sense HAT + Dashboard](https://github.com/InitialState/wunderground-sensehat/wiki/img/hyperlocal_dashboard.jpg)
 
-The final step in this project is simply combining our Wunderground script and our Sense HAT script into a single Python script. We will be using https://github.com/InitialState/wunderground-sensehat/blob/master/sensehat_wunderground.py for this last step. Copy this file to your Pi.
+The final step in this project is simply combining our Wunderground script and our Sense HAT script into a single Python script. We will be using https://github.com/InitialState/wunderground-sensehat/blob/master/sensehat_wunderground.py for this last step. Copy this file to your Pi or access it via the Github repository that we cloned earlier in this tutorial. Change into your wunderground-sensehat directory, and then nano into the sensehat_wunderground.py file by typing:
+
+    $ nano sensehat_wunderground.py
 
 Modify the user section near the top of the file:
 
