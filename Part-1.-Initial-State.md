@@ -1,3 +1,5 @@
+[![IMAGE ALT TEXT HERE](https://github.com/InitialState/wunderground-sensehat/wiki/img/Install the ISStreamer.png)](https://youtu.be/7tCEkx1xaP8)
+
 We want to stream all of our weather data to a cloud service and have that service turn our data into a nice dashboard that we can access from our laptop or mobile device. Our data needs a destination. We will use Initial State as that destination.
 
 ###Step 1: Register for Initial State Account
