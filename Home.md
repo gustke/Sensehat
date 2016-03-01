@@ -26,4 +26,4 @@ Approximate fun factor: Off the charts
 - build your own personal hyper-local weather dashboard that you can access from any web browser on your laptop or mobile device
 - become a weather badass
 
-[Part 1: Wunderground >>](Part-1.-Wunderground)
+[Getting Started >>](Getting-Started)
