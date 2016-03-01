@@ -1,4 +1,4 @@
-[![IMAGE ALT TEXT HERE](https://github.com/InitialState/wunderground-sensehat/wiki/img/Build Your Hyper Local Weather Dashboard.png)](https://youtu.be/H55_NNx4swQ)
+[![IMAGE ALT TEXT HERE](https://github.com/InitialState/wunderground-sensehat/wiki/img/Build Your Hyper Local Weather Dashboard.png)](https://youtu.be/vFILgccm84s)
 
 The final step in this project is simply combining our Wunderground script and our Sense HAT script into a single Python script. We will be using https://github.com/InitialState/wunderground-sensehat/blob/master/sensehat_wunderground.py for this last step. Copy this file to your Pi or access it via the Github repository that we cloned earlier in this tutorial. Change into your wunderground-sensehat directory, and then nano into the sensehat_wunderground.py file by typing:
 
