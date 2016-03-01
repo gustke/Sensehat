@@ -1,8 +1,8 @@
 ![Sense HAT + Dashboard](https://github.com/InitialState/wunderground-sensehat/wiki/img/sensehat_data.png)
 
-Let's test our Sense HAT to make sure everything is working. We will use the script located at https://github.com/InitialState/wunderground-sensehat/blob/master/sensehat.py. You can copy this script to a file on your Pi or access it from our Github repository that we cloned earlier. Change into your wunderground-sensehat directory and then nano into your sensehat.py file by typing
+Let's test our Sense HAT to make sure everything is working. We will use the script located at https://github.com/InitialState/wunderground-sensehat/blob/master/sensehat.py. You can copy this script to a file on your Pi or access it from our Github repository that we cloned earlier. Change into your wunderground-sensehat directory and then nano into your sensehat.py file by typing:
 
-    $ sensehat.py
+    $ nano sensehat.py
 
 
 Notice on the first line that we are importing the SenseHat library into the script. Before you run this script, we need to setup our user parameters. 
