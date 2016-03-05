@@ -10,3 +10,5 @@
     - [How to Use the Sense HAT](Part-2.-How-to-Use-the-Sense-HAT)
     - [A Sense HAT Dashboard](Part-2.-A-Sense-HAT-Dashboard)
 - [**Part 3**: Hyper-Local Weather Dashboard](Part-3.-Hyper-Local-Weather-Dashboard)
+- [**Part 4**: (Bonus) Add a Map to Your Dashboard](Part-4.-Add-a-Map-to-Your-Dashboard)
+- [**Part 5**: (Bonus) Configure Your Own Weather Alerts](Part-5.-Configure-Your-Own-Weather-Alerts)
