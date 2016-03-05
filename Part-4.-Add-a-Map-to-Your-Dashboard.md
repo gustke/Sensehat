@@ -10,10 +10,10 @@ You need to get the latitude/longitude coordinates of your location. One way to 
 Click on the "settings" link under the bucket name in the bucket shelf.  This will bring up the screen above.  Copy the text in the API Endpoint section and paste it in your favorite text editor.  We will use this to build a URL that we can use to send data into our existing bucket and dashboard.
 
 In my bucket, the text that I copied looks like:
-https://groker-dev.initialstate.com/api/events?accessKey=bqHk4F0Jj4j4M4CrhJxEWv6ck3nfZ79o&bucketKey=shwu1
+https://groker.initialstate.com/api/events?accessKey=bqHk4F0Jj4j4M4CrhJxEWv6ck3nfZ79o&bucketKey=shwu1
 
 Your URL will have your accessKey and bucketKey. We need to add a stream name and value to the URL parameters to complete the URL. Add "&MapLocation=YOUR_COORDINATES_FROM_STEP1" to your URL (insert the coordinates from Step 1, no spaces and don't copy mine!!):
-https://groker-dev.initialstate.com/api/events?accessKey=bqHk4F0Jj4j4M4CrhJxEWv6ck3nfZ79o&bucketKey=shwu1&MapLocation=35.925298,-86.8679478
+https://groker.initialstate.com/api/events?accessKey=bqHk4F0Jj4j4M4CrhJxEWv6ck3nfZ79o&bucketKey=shwu1&MapLocation=35.925298,-86.8679478
 
 Paste your complete URL to the address bar of your browser and hit enter (or use the 'curl' command at a command prompt) to send your map coordinates to the stream, "MapLocation", in your new bucket.
 
