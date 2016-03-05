@@ -5,6 +5,8 @@
 
 [![IMAGE ALT TEXT HERE](https://github.com/InitialState/wunderground-sensehat/wiki/img/WeatherDashboardIntroThumb.jpg)](https://youtu.be/n-Dx6FE0VnQ)
 
+_**Updated 03/05/2016 with two new bonus sections, adding a map to your dashboard and adding weather alerts**_
+
 Let's face it, we humans talk about the weather a lot ⛅️. The average person talks about the weather four times a day, for an average of 8 minutes and 21 seconds. Do the math and that totals 10 months of your life that you will spend yapping about the weather. The weather ranks as the #1 go-to topic for conversation starters and uncomfortable silence breakers. If we are going to talk about it that much, we might as well take our weather street cred to a whole new level. This super-fun and easy project will leverage the Internet of Things (IoT) and a Raspberry Pi to do just that. 
 
 We are going to build our very own hyper-local weather dashboard, capturing the weather inside and outside our house over time. The next time someone asks you "how about the weather lately?", you will be able to whip out your phone and leave them breathless with your mad weather analysis skillz ☀️. 
@@ -24,6 +26,7 @@ Approximate fun factor: Off the charts
 - learn how to use Wunderground's API to get the local outside weather in your area
 - learn how to use a Raspberry Pi (http://www.raspberrypi.org) with a Sense HAT (https://www.raspberrypi.org/products/sense-hat/) to capture weather data inside your house
 - build your own personal hyper-local weather dashboard that you can access from any web browser on your laptop or mobile device
+- setup your own weather alerts
 - become a weather badass
 
 [Getting Started >>](Getting-Started)
