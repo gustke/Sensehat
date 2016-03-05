@@ -36,4 +36,4 @@ After a couple of days, it is interesting to compare the temperature changes in 
 
 ![Sense HAT + Dashboard](https://github.com/InitialState/wunderground-sensehat/wiki/img/hyperlocal_dashboard.jpg)
 
-[<< Part 2: A Sense HAT Dashboard](Part-2.-A-Sense-HAT-Dashboard)
+[<< Part 2: A Sense HAT Dashboard](Part-2.-A-Sense-HAT-Dashboard) - [Part 4: (Bonus) Add a Map to Your Dashboard >>](Part-4.-Add-a-Map-to-Your-Dashboard)
