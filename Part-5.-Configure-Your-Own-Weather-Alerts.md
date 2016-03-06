@@ -27,7 +27,7 @@ Whenever temperature drops below 32, you will get a text message. You set alerts
 ```
 Whenever it is windy 
 ```
-:dash: Wind Speed(MPH) > 20)
+:dash: Wind Speed(MPH) > 20
 ``` 
 etc.
 
