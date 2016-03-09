@@ -3,7 +3,7 @@ We can easily add a map tile to our dashboard showing the location of our weathe
 
 ### Step 1: Get your Location's Latitude/Longitude Coordinates
 ![Step 1: Get Coordinates](https://github.com/InitialState/wunderground-sensehat/wiki/img/GetCoordinates.jpg)
-You need to get the latitude/longitude coordinates of your location. One way to do this is to go to Google Maps, search for your location, and zoom in to your exact location. In the URL, you will see your latitude/longitude coordinates. In the example above, my coordinates are 35.925298,-86.8679478. Copy your coordinates (you will need them in step 2). 
+You need to get the latitude/longitude coordinates of your location. One way to do this is to go to Google Maps, search for your location, and zoom in to your exact location. In the URL, you will see your latitude/longitude coordinates. In the example above, my coordinates are 35.925298,-86.8679478. Copy your coordinates (you will need them in step 2), and make sure you don't accidentally copy any extra characters from the URL.
 
 ### Step 2: Build a URL to Send Data Into Your Dashboard
 ![Step 2: Get API Endpoint](https://github.com/InitialState/wunderground-sensehat/wiki/img/AddMapStep1.jpg)
