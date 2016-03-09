@@ -12,7 +12,13 @@ Click on the "settings" link under the bucket name in the bucket shelf.  This wi
 In my bucket, the text that I copied looks like:
 https://groker.initialstate.com/api/events?accessKey=bqHk4F0Jj4j4M4CrhJxEWv6ck3nfZ79o&bucketKey=shwu1
 
-Your URL will have your accessKey and bucketKey. We need to add a stream name and value to the URL parameters to complete the URL. Add "&MapLocation=YOUR_COORDINATES_FROM_STEP1" to your URL (insert the coordinates from Step 1, no spaces and don't copy mine!!):
+Your URL will have your accessKey and bucketKey. We need to add a stream name and value to the URL parameters to complete the URL. 
+
+Add "&MapLocation=YOUR_COORDINATES_FROM_STEP1" to your URL 
+
+**(insert the coordinates from Step 1, no spaces and don't copy mine!!)**
+
+Here's what mine looks like:
 https://groker.initialstate.com/api/events?accessKey=bqHk4F0Jj4j4M4CrhJxEWv6ck3nfZ79o&bucketKey=shwu1&MapLocation=35.925298,-86.8679478
 
 Paste your complete URL to the address bar of your browser and hit enter (or use the 'curl' command at a command prompt) to send your map coordinates to the stream, "MapLocation", in your new bucket.
