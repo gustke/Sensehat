@@ -27,10 +27,11 @@ BUCKET_NAME = ":partly_sunny: " + CITY + " Weather"
 BUCKET_KEY = "wu1"
 ACCESS_KEY = "PLACE YOUR INITIAL STATE ACCESS KEY HERE"
 MINUTES_BETWEEN_READS = 15
+METRIC_UNITS = False
 # ---------------------------------
 ```
 
-You need to set the desired state and city. You also have to insert your Wunderground API key and your Initial State account access key or your data isn't going to go anywhere. The MINUTES_BETWEEN_READS parameter will set how often your script will poll the Wunderground API for weather information. 15 minutes provides a nice interval long-term. For the sake of short-term testing, you can set this to 0.5 minutes.
+You need to set the desired state and city. You also have to insert your Wunderground API key and your Initial State account access key or your data isn't going to go anywhere. The MINUTES_BETWEEN_READS parameter will set how often your script will poll the Wunderground API for weather information. 15 minutes provides a nice interval long-term. For the sake of short-term testing, you can set this to 0.5 minutes. The METRIC_UNITS option allows you to choose between Fahrenheit/Celsius, MPH/KPH, etc.
 
 Once you have your parameters set, you are ready to run your script:
 
