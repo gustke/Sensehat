@@ -3,7 +3,7 @@
 
 #Introduction
 
-[![IMAGE ALT TEXT HERE](https://github.com/InitialState/wunderground-sensehat/wiki/img/WeatherDashboardIntroThumb.jpg)](https://youtu.be/n-Dx6FE0VnQ)
+[![Intro Movie Thumbnail](https://github.com/InitialState/wunderground-sensehat/wiki/img/WeatherDashboardIntroThumb.jpg)](https://youtu.be/n-Dx6FE0VnQ)
 
 _**Updated 03/21/2016: added METRIC_UNITS option to select between metric and US units; updated scripts to have better error handling to reduce unwanted script exits**_
 
@@ -12,6 +12,8 @@ _**Updated 03/05/2016: two new bonus sections - adding a map to your dashboard a
 Let's face it, we humans talk about the weather a lot ⛅️. The average person talks about the weather four times a day, for an average of 8 minutes and 21 seconds. Do the math and that totals 10 months of your life that you will spend yapping about the weather. The weather ranks as the #1 go-to topic for conversation starters and uncomfortable silence breakers. If we are going to talk about it that much, we might as well take our weather street cred to a whole new level. This super-fun and easy project will leverage the Internet of Things (IoT) and a Raspberry Pi to do just that. 
 
 We are going to build our very own hyper-local weather dashboard, capturing the weather inside and outside our house over time. The next time someone asks you "how about the weather lately?", you will be able to whip out your phone and leave them breathless with your mad weather analysis skillz ☀️. 
+
+[![Kit](https://github.com/InitialState/wunderground-sensehat/wiki/img/Kit-Wunderground.jpg)](http://www.mcmelectronics.com/product/83-16564RK)
 
 **What you will need to take the course:**
 
