@@ -30,6 +30,10 @@ or, to get the weather in London
 
 * http://api.wunderground.com/api/0def10027afaebb7/conditions/q/UK/London.json
 
+or, to get the weather in Toronto
+
+* http://api.wunderground.com/api/0def10027afaebb7/conditions/q/canada/Toronto.json
+
 Let's look at what is returned:
 
 ```
