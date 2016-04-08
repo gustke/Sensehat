@@ -3,7 +3,7 @@
 We want to stream all of our weather data to a cloud service and have that service turn our data into a nice dashboard that we can access from our laptop or mobile device. Our data needs a destination. We will use Initial State as that destination.
 
 ###Step 1: Register for Initial State Account
-Go to [https://www.initialstate.com/app#/register/](https://www.initialstate.com/app#/register/) and create a new account.
+Go to [https://app.initialstate.com/#/register/](https://app.initialstate.com/#/register/) and create a new account.
 
 ###Step 2: Install the ISStreamer
 Install the Initial State Python module onto your Raspberry Pi:
