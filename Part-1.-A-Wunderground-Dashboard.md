@@ -18,7 +18,7 @@ Before you run it, you need to set your desired parameters and insert your keys.
 
 Then edit the section near the top of the script:
 
-```
+```python
 # --------- User Settings ---------
 STATE = "CA"
 CITY = "San_Francisco"
