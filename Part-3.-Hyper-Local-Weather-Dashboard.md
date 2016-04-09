@@ -6,7 +6,7 @@ The final step in this project is simply combining our Wunderground script and o
 
 Modify the user section near the top of the file:
 
-```
+```python
 # --------- User Settings ---------
 STATE = "CA"
 CITY = "San_Francisco"
