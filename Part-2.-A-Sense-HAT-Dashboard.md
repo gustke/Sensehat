@@ -7,7 +7,7 @@ Let's test our Sense HAT to make sure everything is working. We will use the scr
 
 Notice on the first line that we are importing the SenseHat library into the script. Before you run this script, we need to setup our user parameters. 
 
-```
+```python
 # --------- User Settings ---------
 CITY = "Nashville"
 BUCKET_NAME = ":partly_sunny: " + CITY + " Weather"
