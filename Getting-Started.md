@@ -9,7 +9,7 @@ To retrieve all of the things we’ve prepared for you, you’ll need to clone t
 To clone the repository all we need to do is go into our Pi’s terminal, or your computers terminal that’s SSH’d into your pi and type this command:
 
 
-    $ git clone: https://github.com/InitialState/wunderground-sensehat.git
+    $ git clone https://github.com/InitialState/wunderground-sensehat.git
 
 
 Hit enter and you’ll see this information:
